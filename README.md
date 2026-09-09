@@ -566,7 +566,9 @@ The tool executes real curl commands against targets. This involves:
 3. Version Compatibility: May require specific curl versions
 4. SSL/TLS Issues: May encounter certificate validation problems
 
----
+<p align="center">
+  <img src="https://media1.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" width="600" alt="CURLOPTIX Glitch Animation">
+</p> 
 
 📜 Legal Notice
 
