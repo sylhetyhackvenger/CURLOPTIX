@@ -567,8 +567,8 @@ The tool executes real curl commands against targets. This involves:
 4. SSL/TLS Issues: May encounter certificate validation problems
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" width="600" alt="CURLOPTIX Glitch Animation">
-</p> 
+  <img src="https://media1.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" width="100%" alt="CURLOPTIX Glitch Animation">
+</p>
 
 📜 Legal Notice
 
