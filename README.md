@@ -4,7 +4,40 @@
 </p>
 
 
-
+<div align="center"><a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/CURLOPTIX-Cybersecurity-00E5FF?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="CURLOPTIX">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/300%2B-Commands-7C4DFF?style=for-the-badge&logo=terminal&logoColor=white" alt="300+ Commands">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Defensive-130%2B-00C853?style=for-the-badge&logo=shield&logoColor=white" alt="Defensive">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Offensive-130%2B-FF1744?style=for-the-badge&logo=target&logoColor=white" alt="Offensive">
+</a><br><a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Vulnerability-Detection-FF6D00?style=for-the-badge&logo=security&logoColor=white" alt="Vulnerability Detection">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/SSL%2FTLS-Analysis-2196F3?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL TLS Analysis">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Security-Headers-Analysis-00BCD4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Security Headers">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Risk-Scoring-FFB300?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Risk Scoring">
+</a><br><a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/JSON-TXT%20%7C%20CSV-8E24AA?style=for-the-badge&logo=json&logoColor=white" alt="Reporting">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Rich-Terminal_UI-AB47BC?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Rich Terminal UI">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/Python-3.6%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://github.com/sylhetyhackvenger/CURLOPTIX">
+<img src="https://img.shields.io/badge/cURL-Powered-073551?style=for-the-badge&logo=curl&logoColor=white" alt="cURL Powered">
+</a></div>
 ---
 
 🔍 Overview
