@@ -1,4 +1,8 @@
 # CURLOPTIX - Curl-Powered Multi-Domain Cybersecurity Assessment Framework
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
+
 
 
 ---
@@ -182,6 +186,9 @@ sudo python3 curloptix.py
 sudo python3 curloptix.py 
 # Then select commands from interactive menu
 ```
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 Interactive Menu Navigation
 
